@@ -5,9 +5,6 @@ This repository contains two beginner-friendly risk management projects designed
 1. **FX Risk Monitoring Tool** – Calculates currency exposures and scenario P&L.  
 2. **Liquidity Risk Dashboard** – Aggregates cash flows, computes liquidity ratios, and visualizes results.  
 
-Perfect for students, FRM/CFA candidates, or anyone wanting to build hands-on risk analytics skills.
-
----
 
 ## 🛠️ Tech Stack
 - **Python** (Pandas, SQLite3)
