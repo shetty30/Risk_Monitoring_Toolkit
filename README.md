@@ -1,10 +1,18 @@
-# 📊 Liquidity Risk Dashboard
+# 📊 Risk Monitoring Toolkit
 
-This project is a beginner-friendly **liquidity risk dashboard** built using **Python (Pandas)**.  
-It teaches you how to:
-- Perform **SQL-style joins** in Pandas
-- Use **groupby** to aggregate data
-- Calculate **key liquidity ratios**
-- Identify **high-risk companies** based on liquidity metrics
+This repository contains two beginner-friendly risk management projects designed to help you practice **Python**, **Pandas**, and **SQL** while learning about real-world risk concepts:  
+
+1. **FX Risk Monitoring Tool** – Calculates currency exposures and scenario P&L.  
+2. **Liquidity Risk Dashboard** – Aggregates cash flows, computes liquidity ratios, and visualizes results.  
+
+Perfect for students, FRM/CFA candidates, or anyone wanting to build hands-on risk analytics skills.
+
+---
+
+## 🛠️ Tech Stack
+- **Python** (Pandas, SQLite3)
+- **Jupyter Notebook** (interactive exploration)
+- **Matplotlib** (visualizations)
+- (Optional) **Requests** (to pull live FX rates)
 
 
